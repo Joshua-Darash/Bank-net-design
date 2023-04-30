@@ -1,0 +1,1 @@
+This is a networking project for a company that deals in banking and insurance
